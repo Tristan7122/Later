@@ -1,0 +1,13 @@
+{
+  "name": "PHORA-MDx",
+  "description": "Advanced WhatsApp Bot created by Tristan",
+  "repository": "https://github.com/Tristan7122/phora-mdx",
+  "logo": "https://files.catbox.moe/atby2t.png",
+  "keywords": ["whatsapp", "bot", "baileys"],
+  "env": {},
+  "formation": {
+    "worker": {
+      "quantity": 1
+    }
+  }
+}
